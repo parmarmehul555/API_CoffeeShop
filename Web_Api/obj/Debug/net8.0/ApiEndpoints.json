@@ -1,0 +1,572 @@
+[
+  {
+    "ContainingType": "Web_Api.Controllers.BillController",
+    "Method": "GetBill",
+    "RelativePath": "api/Bill",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.BillController",
+    "Method": "InsertBill",
+    "RelativePath": "api/Bill",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Bill",
+        "Type": "Web_Api.Model.BillsModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.BillController",
+    "Method": "UpdateBill",
+    "RelativePath": "api/Bill",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Bill",
+        "Type": "Web_Api.Model.BillsModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.BillController",
+    "Method": "DeleteBill",
+    "RelativePath": "api/Bill",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "BillID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CityController",
+    "Method": "GetCities",
+    "RelativePath": "api/City",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CityController",
+    "Method": "InsertCity",
+    "RelativePath": "api/City",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "City",
+        "Type": "Web_Api.Model.CityModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CityController",
+    "Method": "UpdateCity",
+    "RelativePath": "api/City",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "City",
+        "Type": "Web_Api.Model.CityModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CityController",
+    "Method": "DeleteCity",
+    "RelativePath": "api/City",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CityID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CityController",
+    "Method": "GetCityByID",
+    "RelativePath": "api/City/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CountryController",
+    "Method": "GetCountry",
+    "RelativePath": "api/Country",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CountryController",
+    "Method": "InsertCountry",
+    "RelativePath": "api/Country",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "country",
+        "Type": "Web_Api.Model.CountryModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CountryController",
+    "Method": "UpdateCountry",
+    "RelativePath": "api/Country",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "country",
+        "Type": "Web_Api.Model.CountryModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CountryController",
+    "Method": "DeleteCountry",
+    "RelativePath": "api/Country",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CountryID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CountryController",
+    "Method": "GetCityByID",
+    "RelativePath": "api/Country/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CustomerController",
+    "Method": "GetCustomer",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CustomerController",
+    "Method": "InsertCustomer",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Customer",
+        "Type": "Web_Api.Model.CustomerModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CustomerController",
+    "Method": "UpdateCustomer",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Customer",
+        "Type": "Web_Api.Model.CustomerModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.CustomerController",
+    "Method": "DeleteCustomer",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "CustomerID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.OrderController",
+    "Method": "GetOrder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.OrderController",
+    "Method": "InsertOrder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Order",
+        "Type": "Web_Api.Model.OrderModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.OrderController",
+    "Method": "UpdateOrder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Order",
+        "Type": "Web_Api.Model.OrderModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.OrderController",
+    "Method": "DeleteOrder",
+    "RelativePath": "api/Order",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "OrderID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.OrderDetailController",
+    "Method": "GetOrderDetail",
+    "RelativePath": "api/OrderDetail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.OrderDetailController",
+    "Method": "InsertOrderDetail",
+    "RelativePath": "api/OrderDetail",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "OrderDetail",
+        "Type": "Web_Api.Model.OrderDetailModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.OrderDetailController",
+    "Method": "UpdateOrderDetail",
+    "RelativePath": "api/OrderDetail",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "OrderDetail",
+        "Type": "Web_Api.Model.OrderDetailModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.OrderDetailController",
+    "Method": "DeleteOrderDetail",
+    "RelativePath": "api/OrderDetail",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "OrderDetailID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.ProductController",
+    "Method": "GetProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.ProductController",
+    "Method": "InsertProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Product",
+        "Type": "Web_Api.Model.ProductModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.ProductController",
+    "Method": "UpdateProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Product",
+        "Type": "Web_Api.Model.ProductModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.ProductController",
+    "Method": "DeleteProduct",
+    "RelativePath": "api/Product",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ProductID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.StateController",
+    "Method": "GetState",
+    "RelativePath": "api/State",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.StateController",
+    "Method": "InsertState",
+    "RelativePath": "api/State",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "State",
+        "Type": "Web_Api.Model.StateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.StateController",
+    "Method": "UpdateState",
+    "RelativePath": "api/State",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "State",
+        "Type": "Web_Api.Model.StateModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.StateController",
+    "Method": "DeleteState",
+    "RelativePath": "api/State",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StateID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.StateController",
+    "Method": "GetStateByID",
+    "RelativePath": "api/State/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.UserController",
+    "Method": "GetState",
+    "RelativePath": "api/User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.UserController",
+    "Method": "InsertUser",
+    "RelativePath": "api/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "User",
+        "Type": "Web_Api.Model.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/User",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "User",
+        "Type": "Web_Api.Model.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_Api.Controllers.UserController",
+    "Method": "DeleteState",
+    "RelativePath": "api/User",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

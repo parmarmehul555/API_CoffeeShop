@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SEM-6\\Adv .net\\Web_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|d:\\sem-6\\adv .net\\web_api\\web_api\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|d:\\sem-6\\adv .net\\web_api\\web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|d:\\sem-6\\adv .net\\web_api\\web_api\\data\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\data\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|d:\\sem-6\\adv .net\\web_api\\web_api\\model\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\model\\statemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|d:\\sem-6\\adv .net\\web_api\\web_api\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757431B5-61DE-471A-8184-AF1FA97061CB}|Web_Api\\Web_Api.csproj|solutionrelative:web_api\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Web_Api\\Data\\UserRepository.cs",
+              "ToolTip": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Web_Api\\Data\\UserRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:14:49.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_Api\\appsettings.json",
+              "ToolTip": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\appsettings.json",
+              "RelativeToolTip": "Web_Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T03:10:38.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateModel.cs",
+              "DocumentMoniker": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\Model\\StateModel.cs",
+              "RelativeDocumentMoniker": "Web_Api\\Model\\StateModel.cs",
+              "ToolTip": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\Model\\StateModel.cs",
+              "RelativeToolTip": "Web_Api\\Model\\StateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:55:12.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StateRepository.cs",
+              "DocumentMoniker": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\Data\\StateRepository.cs",
+              "RelativeDocumentMoniker": "Web_Api\\Data\\StateRepository.cs",
+              "ToolTip": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\Data\\StateRepository.cs",
+              "RelativeToolTip": "Web_Api\\Data\\StateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:50:56.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Web_Api\\Controllers\\StateController.cs",
+              "ToolTip": "D:\\SEM-6\\Adv .net\\Web_Api\\Web_Api\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Web_Api\\Controllers\\StateController.cs",
+              "ViewState": "AQIAABEAAACAmZmZmZkjwEIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:50:52.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 272,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
